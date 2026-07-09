@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d3ygnwrii76kb"
-path="res://.godot/imported/vision.png-6d2729c04b42dc2bbae89748d2cd0b3b.ctex"
+uid="uid://bniv6bsqpp4hn"
+path="res://.godot/imported/icon.svg-951417f3720af5386755bc54319350ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/everkit/components/VisionComponent/vision.png"
-dest_files=["res://.godot/imported/vision.png-6d2729c04b42dc2bbae89748d2cd0b3b.ctex"]
+source_file="res://addons/everkit/components/HurtboxComponent/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-951417f3720af5386755bc54319350ec.ctex"]
 
 [params]
 
@@ -38,3 +38,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false

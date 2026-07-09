@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4umelpjovrx7"
-path="res://.godot/imported/icon.svg-7095c247604b6001e28ba41128b7b9ab.ctex"
+uid="uid://cck62isl54gcf"
+path="res://.godot/imported/icon.svg-566580c5717e691c8fa62f239457f46d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/everkit/components/VisionComponent/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-7095c247604b6001e28ba41128b7b9ab.ctex"]
+source_file="res://addons/everkit/components/HitboxComponent/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-566580c5717e691c8fa62f239457f46d.ctex"]
 
 [params]
 
@@ -37,7 +37,7 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1
 svg/scale=1.0
 editor/scale_with_editor_scale=false
 editor/convert_colors_with_editor_theme=false

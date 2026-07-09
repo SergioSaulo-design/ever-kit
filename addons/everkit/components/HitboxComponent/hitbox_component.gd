@@ -33,6 +33,7 @@
 ## [codeblock]
 ## hitbox.auto_attack = true
 ## [/codeblock]
+@icon("res://addons/everkit/components/HitboxComponent/icon.svg")
 class_name HitboxComponent extends Area2D
 
 # CONFIG
