@@ -1,3 +1,5 @@
+[**Return to index**](https://github.com/SergioSaulo-design/ever-kit/blob/ced991d1188887c166077242fcc9fd39755f5cc8/everkit/documentation/index.md)
+
 # HitboxComponent
 
 `HitboxComponent` is a reusable combat component that represents an attack area.
